@@ -26,7 +26,9 @@ X
 
 (((A (B (X) D))))
 * (qui   exit)
-[0;32m@Tivk7 [0m➜ [1;34m/workspaces/csci-330-homeworks-Tivk7/Hwork1 [0;36m([1;31mmain[0;36m) [0m$ e xit
+[0;32m@Tivk7 [0m➜ [1;34m/workspaces/csci-330-homeworks-Tivk7/Hwork1 [0;36m([1;31mmain[0;36m) [0m$ e 
+xit
 exit
 
 Script done on 2025-01-27 20:07:41+00:00 [COMMAND_EXIT_CODE="0"]
+asdf
